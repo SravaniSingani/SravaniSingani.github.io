@@ -1,0 +1,121 @@
+body {
+    padding: 0px;
+    margin: 10px;
+    font-family: Ariel, Helvetica,sans-serif;
+    background: #e9e0e4;
+    color: rgb(76, 78, 79);
+}
+a:link{
+    color: #30f;
+}
+a:visited{
+    color: rgb(16, 148, 29);
+}
+ a:hover{
+    background-color: rgb(248, 245, 58);
+    color: rgb(45, 44, 42);
+}
+a:active{
+    color: rgb(197, 193, 10);
+}
+
+.deadnav{
+    color: #FFF;
+    background-color: #3CF;
+}
+
+.logo{
+    font-size:36px;
+}
+#navlist li{
+
+    display: inline;
+    list-style-type:circle;
+    padding-right:20px;
+    border-left: 1px solid #000;
+    line-height: 1.1em;
+    margin: 0 .5em 0 - .5em;
+    padding: 0 .5em 0 .5em
+}
+
+.box{
+    margin:10px;
+    padding:10px;
+    background-color: #d2c6ef;
+    border-width:1px;
+    border-color: rgb(93, 95, 95);
+    border-style: solid;
+}
+
+.nav{
+    margin:10px;
+    padding:10px;
+    background-color: #d2c6ef;
+    border-width:1px;
+    border-color: rgb(93, 95, 95);
+    border-style: solid;
+}
+
+.left{
+    width: 20%;
+    margin: 10px;
+    padding: 10px;
+    background-color: #d2c6ef;
+    border-width: 1px;
+    border-color:rgb(93, 95, 95);
+    border-style: solid;
+    float: left;
+}
+.centre{
+    width: 47%;
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+    background-color: #d2c6ef;;
+    border-width: 1px;
+    border-color: rgb(93, 95, 95);
+    border-style: solid;
+    float: left;
+}
+.right{
+    width: 20%;
+    margin: 10px;
+    padding: 10px;
+    background-color: #d2c6ef;;
+    border-width: 1px;
+    border-color: rgb(93, 95, 95);
+    border-style: solid;
+    float: right;
+}
+.lower_nav{
+    
+    margin: 10px;
+    padding: 10px;
+    background-color: #d2c6ef;;
+    border-width: 1px;
+    border-color: rgb(93, 95, 95);
+    border-style: solid;
+    clear:both;
+}
+.legal{
+   
+    margin: 10px;
+    padding: 10px;
+    background-color: #d2c6ef;;
+    border-width: 1px;
+    border-color: rgb(93, 95, 95);
+    border-style: solid;
+    float: none;
+    
+}
+
+.content{
+    width: 97%;
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+    border-width: 1px;
+    border-color: rgb(93, 95, 95);
+    border-style: solid;
+    float: none;
+}
